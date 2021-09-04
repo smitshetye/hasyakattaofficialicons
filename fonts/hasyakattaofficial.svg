@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>
+<json>
+<![CDATA[
+{
+	"fontFamily": "hasyakattaofficial",
+	"majorVersion": 1,
+	"minorVersion": 0,
+	"designer": "Smit Shetye (Hasya Katta Official)",
+	"copyright": "Smit Shetye (Hasya Katta Official)",
+	"designerURL": "https://instagram.com/smitshetye",
+	"license": "Smit Shetye (Hasya Katta Official)",
+	"fontURL": "https://smitshetye.github.io/hasyakattaofficial/",
+	"licenseURL": "https://smitshetye.github.io/hasyakattaofficial/",
+	"description": "Tickle Your Funny Bone with All New MemesFeeling blue? Not anymore. All you need is a good laugh. And to bring just that to you, we’ve launched Hasya Katta! Hasya Katta Official is a Marathi social media page and app, bringing to you anecdotes, memes and much more. Comedy, satire, caricatures and good old memes, we have everything you’ll need to laugh you guts out. Our content is in Marathi, but it’s open for everyone. The app comes with easy access social media buttons, making it all the more easy for you to follow us! You can also check up on all our social media platforms from this one app. No need to scroll aimlessly on many different apps! But that’s not it. Apart from watching tales and laughing out loud at memes, you can even post your own content and get a chance to be featured on our page! Think you’re up to the challenge? Let’s see your funny bone at work.The app is now available for android users, what are you waiting for, go and get it! We encourage you to not just laugh at our content, but also help spread the word about us! Follow us on Instagram and other social media platforms. We welcome suggestions and original work! Our content is open for people to use and share on social media, now go and share that funny meme with your friend. Spread the joy.",
+	"version": "Version 1.0",
+	"fontId": "hasyakattaofficial",
+	"psName": "hasyakattaofficial",
+	"subFamily": "Regular",
+	"fullName": "hasyakattaofficial"
+}
+]]>
+</json>
+</metadata>
+<defs>
+<font id="hasyakattaofficial" horiz-adv-x="1024">
+<font-face units-per-em="1024" ascent="960" descent="-64" />
+<missing-glyph horiz-adv-x="1024" />
+<glyph unicode="&#x20;" horiz-adv-x="512" d="" />
+<glyph unicode="&#xe900;" glyph-name="hasya-katta" data-tags="hasyakatta, hasyakattaofficial, hasyakattameme, hasyakattamemeofficial, hk, hkm, hko, hkmo, maharashtrian, marathi, marathihasyakatta, marathihasyakattaofficial, marathihasyakattameme, marathihasyakattamemes, marathihasyakattamemeofficial, marathihasyakattamemesofficial, marathistatus, marathijokes, marathikavita, marathimeme, entertainment, entertainmentapps, entertainmentappsinindia, entertainmentblogs, entertainmentbackground, entertainmentchannel, entertainmentcenter, entertainmentday, entertainmentforkids, entertainmenthindi, entertainmenthub, entertainmentinmarathi, entertainmentjokes, entertainmentofindia, entertainmentonline, entertainmentofficial, meme, memes, mememaker, memesinmarathi, memeapp, memesinstagram, memelive, memeslatest, memeliveapp, memeland, mememaharashtra, memethane, memeindia, memenepal, memesnew, memesnonveg" d="M962.874 103.53l-18.367 20.866-36.433-4.552 8.592 22.828c23.982 63.713 19.191 77.423-34.001 97.298-28.5 10.649-47.347 30.281-53.577 55.808l-4.797 19.657-21.102-26.731c-27.288-34.568-64.534-72.309-96.244-97.524-43.652-34.711-130.181-71.153-196.245-82.651-75.579-13.154-172.073-0.056-195.761 26.573-33.218 37.342-48.961 115.524-54.072 268.524-1.285 38.485-2.786 70.493-3.335 71.128s-11.486-3.973-24.305-10.24l-23.307-11.395-48.605 0.941c-43.302 0.838-50.093 0.181-62.247-6.019-13.197-6.732-27.388-26.918-27.388-38.957 0-8.633-5.826-9.231-18.286-1.879-10.68 6.302-13.495 6.618-25.884 2.906-7.645-2.291-14.724-3.341-15.731-2.334-4.464 4.464-5.337 27.046-1.72 44.47 5.503 26.508 20.084 47.076 41.936 59.157 16.266 8.992 20.906 9.915 48.699 9.683 16.896-0.141 44.544-1.442 61.44-2.891 26.877-2.305 33.069-1.745 49.493 4.476 24.611 9.321 42.663 24.584 50.78 42.935 3.61 8.161 14.983 23.191 25.274 33.399s19.832 22.265 21.202 26.791c1.371 4.526 7.078 18.812 12.683 31.744 8.435 19.463 9.545 24.931 6.446 31.734-6.182 13.568-4.291 26.601 5.902 40.666 9.295 12.828 28.495 29.537 37.236 32.408 2.319 0.761 12.303 13.491 22.187 28.288 15.33 22.951 20.317 27.818 33.938 33.126 66.847 26.050 170.893 20.581 251.322-13.212 87.346-36.699 201.064-131.168 254.48-211.405 12.462-18.719 22.658-37.053 22.658-40.742s-13.975-35.031-31.056-69.649l-31.056-62.942 1.406-42.667c2.194-66.584 12.529-81.401 78.028-111.868 15.817-7.358 31.82-16.834 35.561-21.060 13.943-15.747 5.428-80.042-19.357-146.167l-8.017-21.388zM471.909 200.483c15.988 2.788 41.15 9.368 55.914 14.621 30.645 10.904 94.602 50.597 126.826 78.71 22.514 19.642 43.704 44.064 40.774 46.994-0.946 0.946-11.274-1.499-22.952-5.433-32.231-10.858-52.634-13.883-95.618-14.179-87.999-0.605-166.923 21.807-222.719 63.244-12.671 9.41-26.997 22.822-31.835 29.803s-11.918 15.512-15.733 18.958l-6.936 6.265 2.437-30.72c1.34-16.896 6.657-62.39 11.814-101.097 13.989-104.988 19.752-112.236 89.244-112.236 21.842 0 52.794 2.281 68.783 5.069zM793.844 453.561c3.406 22.713-0.429 68.425-7.406 88.277-8.71 24.782-35.801 50.846-60.23 57.948-40.462 11.763-93.875 6.145-127.185-13.376-27.232-15.959-44.099-42.344-30.423-47.592 2.97-1.14 22.655-2.072 43.746-2.072 83.897 0 118.638-16.674 157.432-75.559 8.489-12.885 16.844-23.428 18.566-23.428s4.198 7.11 5.501 15.801zM432.338 624.543c-5.982 64.062-60.863 87.69-94.815 40.821-5.414-7.474-9.843-17.162-9.843-21.531 0-7.42 1.292-7.928 19.627-7.717 22.815 0.262 42.945-7.455 65.707-25.19 8.448-6.582 16.714-11.158 18.369-10.168s2.085 11.693 0.956 23.785z" />
+</font></defs></svg>
